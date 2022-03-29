@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.20833333333333334" />
+        <entry key="app/src/main/res/drawable/ic_brush.xml" value="0.27384615384615385" />
+        <entry key="app/src/main/res/drawable/ic_insert_emoticon.xml" value="0.27384615384615385" />
+        <entry key="app/src/main/res/drawable/ic_oval.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.11388888888888889" />
+        <entry key="app/src/main/res/drawable/rounded_border_text_view.xml" value="0.1" />
+        <entry key="app/src/main/res/font/roboto_medium.xml" value="0.1109375" />
+        <entry key="app/src/main/res/layout/activity_edit_image.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/add_text_dialog.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/color_picker_item_list.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/fragment_bottom_custom_effect_dialog.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/fragment_bottom_properties_dialog.xml" value="0.2558876811594203" />
+        <entry key="app/src/main/res/layout/fragment_bottom_shapes_dialog.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_bottom_sticker_emoji_dialog.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/layout_tools_paint.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/row_editing_tools.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/row_emoji.xml" value="0.26197916666666665" />
+        <entry key="app/src/main/res/layout/row_filter_view.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_sticker.xml" value="0.26197916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
